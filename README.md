@@ -1,1 +1,6 @@
 # VSOP
+
+## setup
+```
+composer install
+```
